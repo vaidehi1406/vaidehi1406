@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center" , style="color: #007bff;>Hi 👋, I'm VAIDEHI KALE</h1>
+<h1 align="center" , style="color: #007bff>Hi 👋, I'm VAIDEHI KALE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
