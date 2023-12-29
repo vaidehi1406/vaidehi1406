@@ -1,5 +1,9 @@
+[![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
+)](https://rishavchanda.i
 <h1 align="center">Hi 👋, I'm VAIDEHI KALE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidehi1406&label=Profile%20views&color=0e75b6&style=flat" alt="vaidehi1406" /> </p>
 
