@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm VAIDEHI KALE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidehi1406&label=Profile%20views&color=0e75b6&style=flat" alt="vaidehi1406" /> </p>
