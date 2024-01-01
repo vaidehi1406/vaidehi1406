@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm VAIDEHI KALE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+    <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="VAIDEHI KALE" width="200" height="200">
+</p>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidehi1406&label=Profile%20views&color=0e75b6&style=flat" alt="vaidehi1406" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaidehi1406" alt="vaidehi1406" /></a> </p>
